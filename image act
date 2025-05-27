@@ -16,11 +16,11 @@
 
 <body>
 
-    <h2>Welcome to coding</h2>
+    <h2>Discription of a lion</h2>
 
     <center>
 
-        <img src="lion.jpg" alt="plants" width="500" height="400">
+        <p>The lion is a large, powerful carnivorous mammal known for its muscular build, tawny coat, and majestic mane in males. Native to Africa and parts of Asia, lions are social animals that live in groups called prides and are often referred to as the "king of the jungle."<img src="lion.jpg" alt="plants" width="500" height="400">
 
     </center>
 
