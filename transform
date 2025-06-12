@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  width: 400px;
+  height: 200px;
+  background-color: orange;
+  border: 5px solid black;
+}
+#mydiv{
+       transform: rotateX(180deg);
+}
+</style>
+</head>
+<body>
+<div>
+my name is vidit
+</div>
+
+<div id="mydiv">
+my name is vidit
+
+</div>
+</body>
+</html>
