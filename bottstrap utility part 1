@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<html>
+
+<head> <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+    </script>
+    </head>
+
+    <body>"text-align:center;>
+    <div class="container">
+    <div class="jumbotron">
+    <h1>Codingal</h1>
+    <p> making kids love with coding....</p>
+    </div>
+    </div>
+
+<div class="container">
+<h2> contexual badges </h2>
+<span class= "badge badge-primary">primary</span>
+<span class= "badge badge-danger">danger</span>
+<h3><span class="badge badge-pill badge-warning">warning</span></h3>
+</div></div>
+<div class="container mt-3">
+        <h2>Let's create buttons!!</h2>
+        <button type="button" class="btn btn-primary btn-lg">Primary</button>
+        <button type="button" class="btn btn-secondary btn-sm">Secondary</button>
+        <button type="button" class="btn btn-warning ">Warning</button>
+        <button type="button" class="btn btn-danger active">Danger</button>
+
+    </div>
+<hr>
+    <div class="container">
+        <h2>Now, its time to learn Progress bar</h2>
+        <div class="progress">
+            <div class="progress-bar " style="width:40%">40%</div>
+        </div><br><br>
+    </div>
+    </body>
+
+</html>
