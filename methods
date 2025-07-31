@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<title> Document </title>
+
+</head>
+<body>
+<h2> Javascript string methods</h2>
+<h4>Basic methods</h4>
+
+<script>
+var str="AmAzInG" ;
+document.write (str.toUpperCase());
+document.write("<br>")
+document.write(str.toLowerCase());
+document.write("<br>")
+document.write(str.startsWith('a'));
+document.write("<br>")
+// Test method
+var str1="I learned about methods";
+var pat1=new RegExp("about");
+var res=pat1.test(str1);
+document.write(res);
+
+</script>
+</body>
+</html>
