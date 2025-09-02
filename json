@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<body>
+<h2>Converting a javascript object into a json string,and send it to the server</h2>
+<p id="result"></p>
+<script>
+var myObj={name:"riya",age:12,grade:7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
