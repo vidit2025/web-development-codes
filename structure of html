@@ -1,0 +1,15 @@
+<!DOCTYPE html> <!-- document type declearation -->
+<html>
+<head>
+    <title>Structure of HTML</title> <!-- Title for browser tab-->
+</head>
+
+<body>
+  
+       Hello, I am vidit of grade 8 <br><!--line break-->
+
+       Today I am learning about Structure of html <br>
+
+       HTML : Hyper text markup language 
+</body>
+</html>
